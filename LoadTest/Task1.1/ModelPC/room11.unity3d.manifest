@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 3698250614
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 544291f04af606240aea5487e3bfeaab
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5bd407873b00d6c5e4aafabc2ce53bab
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Task1.1/prefab/room11.prefab
+Dependencies: []
